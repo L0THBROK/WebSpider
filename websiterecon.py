@@ -22,7 +22,7 @@ def extract_metadata(url):
         return None
 
 if __name__ == "__main__":
-    cprint("Welcome by lothbrok9", 'green')
+    cprint("Welcome by L0THBROK", 'green')
 
     while True:
         url = input("Enter the website URL (or type 'exit' to quit): ")
