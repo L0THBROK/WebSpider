@@ -41,4 +41,4 @@ if __name__ == "__main__":
             for key, value in metadata.items():
                 print(f"- {key}: {value}")
 
-        time.sleep(1)  # Pause for 1 second before the next iteration
+        time.sleep(1)
